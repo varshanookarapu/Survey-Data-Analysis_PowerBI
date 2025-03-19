@@ -39,3 +39,6 @@ o	100% Stacked Bar Chart displaying the education levels across various job role
 ## Technologies Used
 •	Power BI
 •	Power Query Editor
+
+## References 
+https://www.youtube.com/watch?v=pixlHHe_lNQ 
